@@ -1,6 +1,6 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', 'AIzaSyDnZai1R0RS-f1OISNWlpNjo17lwbdA');//这里改成您的api key
+define('APIKEY', 'AIzaSyDnZai19gPR0RS-f1OISNWlpNjo17lwbdA');//这里改成您的api key
 define('GJ_CODE', 'TW');//国家代码
 define('SITE_NAME', 'feizhuge');//网站名字
 define('TITLENAME', 'tdapc');//网站名字
